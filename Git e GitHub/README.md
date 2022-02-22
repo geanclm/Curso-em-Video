@@ -14,7 +14,7 @@ Etapas concluídas;
 
 Em andamento:
 
-- 
+- repositório com arquivo .html inicial para teste
 - 
 
 
