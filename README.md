@@ -11,3 +11,4 @@ Em andamento:
 - PYTHON 3 - MUNDO 2
 - Linux
 - MySQL
+- Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS] Módulo 1
