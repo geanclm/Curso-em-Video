@@ -10,8 +10,7 @@ Concluído com certificado:
 
 - GIT E GITHUB [20 HORAS]
 
-
-
+<br>
 Em andamento:
 
 - Linux
