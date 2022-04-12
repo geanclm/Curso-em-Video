@@ -18,4 +18,5 @@ Em andamento:
 - Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS] Módulo 1
 
 - PYTHON 3 - MUNDO 3
-	- total de 94 exercícios concluidos até aqui
+	Aula 19 – Dicionários
+	- total de 95 exercícios concluidos até aqui
