@@ -19,4 +19,5 @@ Em andamento:
 
 - PYTHON 3 - MUNDO 3
 	Aula 19 – Dicionários
-	- total de 95 exercícios concluidos até aqui
+	Aula 20 – Funções (Parte 1)
+	- total de 96 exercícios concluidos
