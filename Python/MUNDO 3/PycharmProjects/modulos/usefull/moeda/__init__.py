@@ -49,3 +49,14 @@ def resumo (n=0,a=10,d=5):
     print(f'{a}% de aumento: \t{aumentar(n, p=a, formatar=True)}')
     print(f'{d}% de redução: \t{diminuir(n, p=d, formatar=True)}')
     print('-'*31)
+
+def menu(lista):
+    # import libs
+    from usefull.color import textoAzul
+    menuTexto = '       MENU PRINCIPAL       '
+    textoAlinhado((menuTexto))
+    c = 1
+    for i in lista:
+        print (f'{c} - {textoAzul(i)}')
+        c += 1
+    print('-'*(len(menuTexto)+2))

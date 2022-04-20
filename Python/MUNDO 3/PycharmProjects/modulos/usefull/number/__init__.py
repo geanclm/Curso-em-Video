@@ -20,7 +20,7 @@ def leiaInt(msg):
         try:
             n = int(input(msg))
         except(ValueError, TypeError):
-            print(f'\033[31m ERRO: O dado informado não é um número inteiro válido. \033[0;0m')
+            print(f'\033[31mERRO: O dado informado não é um número inteiro válido. \033[0;0m')
             continue
         except (KeyboardInterrupt):
             print('\033[31m O dado não foi informado \033[0;0m')
