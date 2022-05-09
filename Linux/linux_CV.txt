@@ -1,0 +1,74 @@
+Curso em Vídeo
+Linux [anotações]
+by geanclm in 2022
+
+
+linha de comando:
+htop
+
+----------------------
+instaladores do linux:
+----------------------
+synaptic
+
+baixar do site do fabricante
+
+gerenciador de aplicativos
+
+dpkg --remove pacote
+dpkg --install pacote
+
+apt install
+apt search
+apt clean
+apt autoremove
+
+-----------------
+Terminal no Linux
+-----------------
+   88  htop
+   89  bash --version
+   90  history 
+   91  bash --version
+   92  ls
+   93  ls -l
+   94  cd Downloads/
+   96  ls -l
+   97  ls -l -h
+   98  cd ~
+   99  ls --all
+  101  ls -alh
+  102  cd /
+  103  ls -l
+  104  cd dev/
+  106  cd ..
+  107  ls
+  108  ls cat /proc/cpuinfo 
+  109  cat /proc/cpuinfo 
+  110  lscpu
+  111  cd home/
+  112  ls -l
+  113  pwd
+  114  nano
+  
+------------------------------------------
+Terminal no Linux – Manipulando diretórios  
+------------------------------------------
+  
+$ ls -R ~/Documentos/Cursos/
+$ rm -rf pasta
+$ ls /etc/*.conf
+$ ls /etc/?[a,e,i,o,u]???
+$ ls /etc/?{am,ul}*
+$ ls /etc/*{tab,swd}
+$ ls /etc/*.{conf,db}
+$ cat /etc/services | less
+$ alias rm ='/bin/rm -I'
+
+
+--------------------------------------------------
+Aula 10 – Uso de pendrives e HDs externos no Linux
+--------------------------------------------------
+
+recomendável ejetar todo o pendrive em qualquer SO
+
