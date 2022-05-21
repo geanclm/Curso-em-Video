@@ -10,14 +10,13 @@ Concluído com certificado:
 
 - GIT E GITHUB [20 HORAS]
 
+- PYTHON 3 - MUNDO 3 [40 HORAS]
+
+- Linux
+
 <br>
 Em andamento:
 
-- Linux
 - MySQL
-- Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS] Módulo 1
 
-- PYTHON 3 - MUNDO 3
-	Aula 19 – Dicionários
-	Aula 20 – Funções (Parte 1)
-	- total de 96 exercícios concluidos
+- Curso HTML5 e CSS3: módulo 1 de 5 [40 HORAS] Módulo 1
