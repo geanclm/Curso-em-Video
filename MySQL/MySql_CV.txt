@@ -1,0 +1,75 @@
+Curso em Vídeo
+Mysql [anotações]
+by geanclm
+---
+
+verificar o status da instalação do Mysql
+# systemctl status mysql.service
+
+
+criar um banco de dados
+mysql> CREATE DATABASE cadatro;  
+
+
+criar uma nova tabela no banco de dados
+mysql> CREATE TABLE cadastro;
+
+---
+DDL data definition language
+create, 
+
+
+Aula 8 – Gerenciando Cópias de Segurança MySQL..
+/home/s145/snap/mysql-workbench-community/9/dumps/Dump20220515.sql
+
+Aula 10 – PHPMyAdmin (Parte 2)
+mysql> show create table amigos;
+mysql> show create database cadastro;
+
+
+Aula 14 – Modelo Relacional
+
+entidades -> coleção de atributos
+
+-------------
+CARDINALIDADE:
+-------------
+
+------------------------| CLASSE DOMINANTE A ESQUERDA
+|MARIDO| 1 <> 1 |ESPOSA|
+PK		PK
+FK_cfp_esposa
+------------------------
+
+
+
+------------------------
+|SERVIDOR| 1 <> n |DEPENDETES|
+PK			PK
+			FK_servidor
+------------------------
+
+
+
+------------------------
+n <> n
+|CLIENTE| 1--<>--n |COMPRA| n--<>--1 |PRODUTO|
+PK		    PK			PK
+		    FK_cpf_cliente
+		    FK_id_produto
+ ------------------------
+ 
+ 
+ Aula 15 – Chaves Estrangeiras e JOIN
+ 
+ InnoDB (suporta chave estrangeira)
+ 	Atomicidade
+ 	Consistência
+ 	Isolamento
+ 	Durabilidade
+ 	
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+ 	
+|GAFANHOTO| n--<>--1 |CURSO|
+PK			PK
+FK_id_curso
