@@ -1,0 +1,11 @@
+- - -
+Pra quem curte dual boot (Instale os-prober
+ (geralmente já instalado) e edite o arquivo
+ /etc/default/grub para adicionar GRUB_DISABLE_OS_PROBER=false
+ a este arquivo. Salve este arquivo, atualizar
+ o grub e o Grub deve ver outros sistemas operacionais agora.)
+ 
+ - - -
+ no Ubuntu 21.04 estava assim:
+# Uncomment to disable generation of recovery mode menu entries
+#GRUB_DISABLE_RECOVERY="true"
