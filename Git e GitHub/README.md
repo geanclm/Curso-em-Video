@@ -11,15 +11,11 @@ Etapas concluídas;
 - Criando o primeiro Repositório – Curso de Git e GitHub
 
 
-
-Em andamento:
-
 - repositório com arquivo .html inicial para teste
-- 
 
+
+Curso concluído com certificado
+e projetos publicados posteriormente no GitHub.
 
 
 by geanclm
-
-
-
