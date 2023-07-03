@@ -1,8 +1,5 @@
-
-
 # Git e GitHub
 ---
-
 Etapas concluídas:<br>
 
 - O que é Git? O que é versionamento? – Curso de Git e GitHub
