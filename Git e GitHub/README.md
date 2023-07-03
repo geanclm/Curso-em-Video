@@ -7,19 +7,18 @@ Etapas concluídas:<br>
 - A Evolução do Git e GitHub
 - Instalações e configurações importantes
 - Instalação do GitHub Desktop
-  - Sem o GitHub Desktop geralemente é assim:<br>
+  - Sem o GitHub Desktop geralmente é assim:<br>
 
 | Ordem | Comando |
 --- | --- |
 1 | `cd C:\...\GitHub\Curso-em-Video\Git e GitHub>` |
 2 | `C:\...\GitHub\Curso-em-Video\Git e GitHub> code .` |
-3 | _após alterações no arquivo retornar ao prompt_ |
+3 | _após alterações no arquivo retornar ao prompt_ `C:\...\GitHub\Curso-em-Video\Git e GitHub>` |
 4 | `git status` |
-5 | `git add .` |
-6 | `git commit -m 'acrescentado linhas de comando git em Markdown'` |
-7 | `git status` |
-8 | `git log` |
-9 | _caso não exista um repositório remoto configurado:_ `git remote add origin "http://..."`
+5 | `git log` |
+6 | `git add .` |
+7 | `git commit -m 'acrescentado linhas de comando git em Markdown'` |
+8 | _se não existir repositório remoto configurado:_ `git remote add origin "http://..."`
 9 | `git push -u origin master` |
 
    
@@ -28,11 +27,7 @@ Etapas concluídas:<br>
 - Clonando o repositório
 - Versionando o repositório
 - Linguagem Markdown
-  - Exemplo de aplicação em tabela com `Markdown`
-
-| Código | Nome | Cargo | Especialidade |
-| --- | --- | --- | ---|
-1 | Gean Carlos | data analyst | finance |
+  - Listagem de emoji para aplicação em `Markdown`
 
 🖖
 [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
