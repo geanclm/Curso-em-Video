@@ -7,7 +7,15 @@ Etapas concluídas:<br>
 - A Evolução do Git e GitHub – Curso de Git e GitHub
 - Instalações e configurações importantes – Curso de Git e GitHub
 - Criando o primeiro Repositório – Curso de Git e GitHub
-- repositório com arquivo .html inicial para teste<br>
+- repositório com arquivo .html inicial para teste
+- Clonando o repositório
+- Versionando o repositório
+- Linguagem Markdown
+  - Exemplo de aplicação em tabela com `Markdown`
+
+| Código | Nome | Cargo | Especialidade |
+| --- | --- | --- | ---|
+1 | Gean Carlos | data scientist | finance |
 
 Curso concluído com _certificado_ e *projetos* publicados posteriormente no GitHub.<br>
 
