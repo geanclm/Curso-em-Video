@@ -27,10 +27,8 @@ Etapas concluídas:<br>
 - Clonando o repositório
 - Versionando o repositório
 - Linguagem Markdown
-  - Listagem de emoji para aplicação em `Markdown`
-
-🖖
-[emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+  - Listagem de emoji para aplicação em `Markdown`<br>
+    🖖 [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 Curso concluído com _certificado_ e *projetos* publicados posteriormente no GitHub.<br>
 
