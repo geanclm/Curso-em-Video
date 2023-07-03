@@ -6,8 +6,8 @@ Etapas concluídas:<br>
 - O que é GitHub? Pra que ele serve?
 - A Evolução do Git e GitHub
 - Instalações e configurações importantes
-- Criando o primeiro Repositório
-- repositório com arquivo .html inicial para teste
+- O primeiro repositório
+- Repositório com arquivo .html
 - Clonando o repositório
 - Versionando o repositório
 - Linguagem Markdown
