@@ -2,11 +2,11 @@
 ---
 Etapas concluídas:<br>
 
-- O que é Git? O que é versionamento? – Curso de Git e GitHub
-- O que é GitHub? Pra que ele serve? – Curso de Git e GitHub
-- A Evolução do Git e GitHub – Curso de Git e GitHub
-- Instalações e configurações importantes – Curso de Git e GitHub
-- Criando o primeiro Repositório – Curso de Git e GitHub
+- O que é Git? O que é versionamento?
+- O que é GitHub? Pra que ele serve?
+- A Evolução do Git e GitHub
+- Instalações e configurações importantes
+- Criando o primeiro Repositório
 - repositório com arquivo .html inicial para teste
 - Clonando o repositório
 - Versionando o repositório
