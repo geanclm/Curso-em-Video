@@ -6,6 +6,14 @@ Etapas concluídas:<br>
 - O que é GitHub? Pra que ele serve?
 - A Evolução do Git e GitHub
 - Instalações e configurações importantes
+- Instalação do GitHub Desktop
+  - Apenas para registrar que sem o GitHub Desktop geralemente é assim:<br>
+
+| Ordem | Comando |
+--- | --- |
+1 | `cd C:\...\GitHub\Curso-em-Video\Git e GitHub>` |
+
+   
 - O primeiro repositório
 - Repositório com arquivo .html
 - Clonando o repositório
