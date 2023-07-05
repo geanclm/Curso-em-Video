@@ -11,15 +11,18 @@ Etapas concluídas:<br>
 
 | Ordem | Comando |
 --- | --- |
-1 | `cd C:\...\GitHub\Curso-em-Video\Git e GitHub>` |
-2 | `C:\...\GitHub\Curso-em-Video\Git e GitHub> code .` |
-3 | _após alterações no arquivo retornar ao prompt_ `C:\...\GitHub\Curso-em-Video\Git e GitHub>` |
-4 | `git status` |
-5 | `git log` |
-6 | `git add .` |
-7 | `git commit -m 'acrescentado linhas de comando git em Markdown'` |
-8 | _se não existir repositório remoto configurado:_ `git remote add origin "http://..."`
-9 | `git push -u origin master` |
+00 | [Configuração Inicial do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git) |
+01 | `cd C:\...\GitHub\Curso-em-Video\Git e GitHub>` |
+02 | _apenas na primeira vez com a criação do projeto_ `git init` |
+03 | `C:\...\GitHub\Curso-em-Video\Git e GitHub> code .` |
+04 | _após alterações no arquivo retornar ao prompt_ `C:\...\GitHub\Curso-em-Video\Git e GitHub>` |
+05 | `git status` |
+06 | `git log` |
+07 | `git add .` |
+08 | _caso seja necessário remover os arquivos do stage_ `git reset` |
+09 | `git commit -m 'acrescentado linhas de comando git em Markdown'` |
+10 | _se não existir repositório remoto configurado:_ `git remote add origin "http://..."`
+11 | `git push -u origin master` |
 
    
 - O primeiro repositório
@@ -29,6 +32,10 @@ Etapas concluídas:<br>
 - Linguagem Markdown
   - Listagem de emoji para aplicação em `Markdown`<br>
     🖖 [emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
+- Segurança no GitHub
+- Branches
+- Hospedagem no GitHub
 
 Curso concluído com _certificado_ e *projetos* publicados posteriormente no GitHub.<br>
 
