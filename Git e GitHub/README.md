@@ -23,6 +23,7 @@ Etapas concluídas:<br>
 09 | `git commit -m 'acrescentado linhas de comando git em Markdown'` |
 10 | _se não existir repositório remoto configurado:_ `git remote add origin "http://..."`
 11 | `git push -u origin master` |
+12 | _clonar um repositório do GitHub:_ `git clone https://github.com/usuario/nome-do-repositorio` |
 
    
 - O primeiro repositório
